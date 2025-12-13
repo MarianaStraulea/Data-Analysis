@@ -36,7 +36,7 @@ This portfolio showcases the technical skills and project-based experience gaine
 
 I am open to new opportunities and collaborations in Data Analysis and Machine Learning. Feel free to connect!
 
-* **LinkedIn:** [https://www.linkedin.com/in/mariana-straulea-1b8bb92ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BnB37ZQr%2FQaG%2B7plqukKB9g%3D%3D]
+* **LinkedIn:** [Straulea Mariana](https://www.linkedin.com/in/mariana-straulea-1b8bb92ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BnB37ZQr%2FQaG%2B7plqukKB9g%3D%3D)
 * **Email:** [marianabebeselea5@gmail.com]
-* **GitHub:** [https://github.com/MarianaStraulea/Data-Analysis]
+* **GitHub:** [GitHub](https://github.com/MarianaStraulea/Data-Analysis)
 
