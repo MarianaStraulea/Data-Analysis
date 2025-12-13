@@ -6,8 +6,8 @@ This portfolio showcases the skills I gained while learning Data Analysis over t
 - [About](#About)
 - [Portfolio Projects](#portfolio-projects):
   * Python:
-      - [Exploratory Data Analysis on Coffee Sales Dataset]("\Data_Projects\Projects\EDA_coffe_sales")
-      - [Heart Disease Prediction - Creating a ML model to predict the presence of heart  disease]("\Data_Projects\Projects\ML_Project_1")
-      - [Employee Attrition Prediction - Create a ML model using Random Forest Classifier and Decision Tree Algorithms, in order to predict turnover]("\Data_Projects\Projects\Employee_Attrition")
+      - [Exploratory Data Analysis on Coffee Sales Dataset](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/EDA_coffe_sales)
+      - [Heart Disease Prediction - Creating a ML model to predict the presence of heart  disease](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/ML_Project_1)
+      - [Employee Attrition Prediction - Create a ML model using Random Forest Classifier and Decision Tree Algorithms, in order to predict turnover](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/Employee_Attrition)
 
 # About
