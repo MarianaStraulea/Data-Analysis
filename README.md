@@ -10,8 +10,8 @@ This portfolio showcases the skills I gained while learning Data Analysis over t
       - [Exploratory Data Analysis on Coffee Sales Dataset](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/EDA_coffe_sales)
       - [Heart Disease Prediction - Creating a ML model to predict the presence of heart  disease](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/ML_Project_1)
       - [Employee Attrition Prediction - Create a ML model using Random Forest Classifier and Decision Tree Algorithms, in order to predict turnover](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/Employee_Attrition)
- * SQL:
-      - [Bookstore Database](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/Bookstore_Database/MarianaStraulea-final_project)
+    * SQL:
+       - [Bookstore Database](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/Bookstore_Database/MarianaStraulea-final_project)
 # About
 
 I am **Mariana Straulea**, an analytical and dedicated **undergraduate student in Economics**, channeling a strong passion for data into practical Machine Learning and Data Analysis projects.
