@@ -41,3 +41,26 @@ I am open to new opportunities and collaborations in Data Analysis and Machine L
 * **Email:** marianabebeselea5@gmail.com
 * **GitHub:** [GitHub](https://github.com/MarianaStraulea/Data-Analysis)
 
+---
+
+## Portfolio Projects
+
+### Python:
+- Exploratory Data Analysis on Coffee Sales Dataset  
+  - Short description: Performed EDA on a coffee sales dataset to uncover seasonal patterns, top-selling items, and customer behaviour. The project includes data cleaning, visualizations (Matplotlib/Seaborn), and actionable insights to inform sales and inventory decisions.  
+  - Folder: [Data_Projects/Projects/EDA_coffe_sales](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/EDA_coffe_sales)
+
+- Heart Disease Prediction — Creating a ML model to predict the presence of heart disease  
+  - Short description: Built and evaluated classification models (Logistic Regression, Random Forest) to predict heart disease using a public clinical dataset. The work includes preprocessing, feature selection, hyperparameter tuning, and evaluation with ROC-AUC and confusion matrices.  
+  - Folder: [Data_Projects/Projects/ML_Project_1](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/ML_Project_1)
+
+- Employee Attrition Prediction — Predicting turnover with Random Forest and Decision Tree algorithms  
+  - Short description: Developed models to predict employee attrition from HR data, including feature engineering (tenure, engagement metrics), class imbalance handling, and model interpretation. The deliverables include model performance metrics and HR policy recommendations to reduce turnover.  
+  - Folder: [Data_Projects/Projects/Employee_Attrition](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/Employee_Attrition)
+
+### SQL:
+- Bookstore Database  
+  - Short description: Designed a normalized relational database for a bookstore, implemented sample schema and data, and wrote SQL queries for sales analytics and inventory reporting. The project demonstrates schema design, JOINs, aggregation, and reporting queries.  
+  - Folder: [Data_Projects/Projects/Bookstore_Database/MarianaStraulea-final_project](https://github.com/MarianaStraulea/Data-Analysis/tree/main/Data_Projects/Projects/Bookstore_Database/MarianaStraulea-final_project)
+
+---
